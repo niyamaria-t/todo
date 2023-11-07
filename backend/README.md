@@ -12,3 +12,6 @@ pip install -r requirements.txt
 
 Modify the env file to update the host & port.
 Env file: .env
+
+### Swagger Documentation
+Visit: http:localhost:{port}/docs
